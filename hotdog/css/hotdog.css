@@ -41,7 +41,7 @@ button {
     background-color: pink;
     border: .25rem, solid, rgb(88, 170, 188);
     position: absolute;
-    top: 11rem;
+    top: 43rem;
   border-radius: .5rem;
     font-size: 1.1rem; 
     font-family: "Emilys Candy", serif;
@@ -59,16 +59,30 @@ button {
 
 #wigbutton {
     position: absolute;
-    top: 14rem;
+    top: 43rem;
+    margin-left: 13rem;
 
 }
 
 hr {
 
     height: .2rem;
-    margin-top: -3rem;
+    margin-top: 37rem;
     background-color:rgb(226, 13, 119);
     border: none;
 
+}
+
+.first {
+    height: .2rem;
+    margin-top: -2rem;
+    background-color:rgb(226, 13, 119);
+    border: none;
+
+}
+
+footer {
+
+    
 }
 
