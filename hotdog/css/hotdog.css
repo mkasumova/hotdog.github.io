@@ -98,16 +98,3 @@ hr {
 
 
 /*test*/
-
-@media only (width: 393px) 
-and (height: 852px) {
-     {
-
-        #mustache {
-            position: absolute;
-            top: 10px;
-            left: 400px;
-        
-
-    }
-}
