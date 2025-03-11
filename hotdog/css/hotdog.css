@@ -2,9 +2,8 @@
 
 #mustache {
     position: absolute;
-
-    top: 295px;
-    left: 420px;
+    top: 115px;
+    left: 100px;
 
 
 }
@@ -68,8 +67,8 @@ button /*mustache*/{
 
 #wig {
     position: absolute;
-    left: 360px;
-    top: 100px;
+    left: 40px;
+    top: -70px;
 }
 
 #wigbutton {
@@ -98,4 +97,17 @@ hr {
 }
 
 
+/*test*/
 
+@media only (width: 393px) 
+and (height: 852px) {
+     {
+
+        #mustache {
+            position: absolute;
+            top: 10px;
+            left: 400px;
+        
+
+    }
+}
